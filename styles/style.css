@@ -143,6 +143,40 @@ nav ul li a:hover {
   border-color: #F1E0AC;
 }
 
+#curiosidades {
+  margin: 80px;
+}
+#curiosidades h3 {
+  color: #74959A;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 1rem;
+}
+#curiosidades h4 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+#curiosidades p {
+  text-align: center;
+  font-size: 1.1111111111rem;
+  font-weight: 300;
+  color: #495371;
+  line-height: 1.25rem;
+}
+#curiosidades .img-container {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1px;
+}
+#curiosidades .img-container img {
+  align-self: center;
+  max-width: 100%;
+}
+
 footer {
   text-align: center;
   font-size: 1.5rem;
